@@ -33,7 +33,7 @@
 ```bash
 #!/usr/bin/env bash
 echo "----------"
-echo "name :"
+echo "student name :"
 
 echo
 
@@ -55,7 +55,7 @@ echo $line_num
 echo
 
 echo "----------"
-echo "lask line :"
+echo "last line :"
 tail -n 1 $file_path
 ```
 
